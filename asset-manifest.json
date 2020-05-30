@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-contextual-navigation-example/static/css/main.2e47d41c.chunk.css",
+    "main.js": "/react-contextual-navigation-example/static/js/main.97f99653.chunk.js",
+    "main.js.map": "/react-contextual-navigation-example/static/js/main.97f99653.chunk.js.map",
+    "runtime-main.js": "/react-contextual-navigation-example/static/js/runtime-main.6326cdf0.js",
+    "runtime-main.js.map": "/react-contextual-navigation-example/static/js/runtime-main.6326cdf0.js.map",
+    "static/js/2.127f760c.chunk.js": "/react-contextual-navigation-example/static/js/2.127f760c.chunk.js",
+    "static/js/2.127f760c.chunk.js.map": "/react-contextual-navigation-example/static/js/2.127f760c.chunk.js.map",
+    "index.html": "/react-contextual-navigation-example/index.html",
+    "precache-manifest.0dd2768328e1e969da6efe1d2c35277b.js": "/react-contextual-navigation-example/precache-manifest.0dd2768328e1e969da6efe1d2c35277b.js",
+    "service-worker.js": "/react-contextual-navigation-example/service-worker.js",
+    "static/css/main.2e47d41c.chunk.css.map": "/react-contextual-navigation-example/static/css/main.2e47d41c.chunk.css.map",
+    "static/js/2.127f760c.chunk.js.LICENSE.txt": "/react-contextual-navigation-example/static/js/2.127f760c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6326cdf0.js",
+    "static/js/2.127f760c.chunk.js",
+    "static/css/main.2e47d41c.chunk.css",
+    "static/js/main.97f99653.chunk.js"
+  ]
+}
